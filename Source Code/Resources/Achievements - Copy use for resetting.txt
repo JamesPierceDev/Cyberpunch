@@ -1,0 +1,21 @@
+{
+  "Achievements":
+  [
+  {"Name":"Punch First", "Value":"False"},
+  {"Name":"Final Form", "Value":"False"},
+  {"Name":"First Blood", "Value":"False"},
+  {"Name":"Damage Dealer", "Value":"False"},
+  {"Name":"Stunner", "Value":"False"},
+  {"Name":"Eh Aye", "Value":"False"},
+  {"Name":"Friends!", "Value":"False"},
+  {"Name":"Bend it like Beckham", "Value":"False"},
+  {"Name":"Last Woman Standing", "Value":"False"},
+  {"Name":"Quitter...", "Value":"False"},
+  {"Name":"Punching Bag", "Value":"False"},
+  {"Name":"Party Time", "Value":"False"},
+  {"Name":"The Upside Down", "Value":"False"},
+  {"Name":"Going Down", "Value":"False"},
+  {"Name":"Back to The Future", "Value":"False"},
+  {"Name":"Mover", "Value":"False"}
+  ]
+}
